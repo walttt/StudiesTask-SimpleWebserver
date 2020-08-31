@@ -7,7 +7,3 @@ Steps to run the program:
 -- You can browse the website by clicking the links now. 
 4. Browse to "http://127.0.0.1:8080" to close connection since the request throws a 404 error message. 
 5. A demonstration is within the file "demonstration".
-
-Walter Bickert
-3003805
-AI-SE
