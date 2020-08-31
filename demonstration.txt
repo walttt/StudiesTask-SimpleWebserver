@@ -1,0 +1,157 @@
+Ready to receive connections!
+Processing client 127.0.0.1
+Waiting for input!
+Input bytes: 343
+GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 331
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 254
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Connection: Close
+
+
+Processing client 127.0.0.1
+Waiting for input!
+Input bytes: 386
+GET /page2.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/index.html
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 334
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 386
+GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/page2.html
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 331
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 0
+Client closed connection!Processing client 127.0.0.1
+Waiting for input!
+Input bytes: 343
+GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 331
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 254
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+HTTP/1.1 404 Not Found
+Content-Type: text/html
+Connection: Close
+
+
+Processing client 127.0.0.1
+Waiting for input!
+Input bytes: 386
+GET /page3.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/index.html
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 334
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 386
+GET /page2.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://127.0.0.1:8080/page3.html
+Upgrade-Insecure-Requests: 1
+
+
+HTTP/1.1 200 OK
+Content-Length: 334
+Content-Type: text/html
+Connection: Open
+
+
+Waiting for input!
+Input bytes: 386
+GET /page1.html HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,a
