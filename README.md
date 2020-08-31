@@ -1,5 +1,5 @@
 # StudiesTask-SimpleWebserver
 
-Simple Webserver accessible in Browser
+Simple Webserver accessible in browser
 
 Made in 2020
